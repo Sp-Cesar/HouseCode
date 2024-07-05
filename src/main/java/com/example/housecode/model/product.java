@@ -14,16 +14,26 @@ public class product {
     private String description;
     private int price;
     private int stock;
+    private String img;
 
     public product() {
     }
 
-    public product(int stock, int price, String description, String name, int id) {
+    public product(int stock, int price, String description, String name, int id, String img) {
         this.stock = stock;
         this.price = price;
         this.description = description;
         this.name = name;
         this.id = id;
+        this.img = img;
+    }
+
+    public String getImg() {
+        return img;
+    }
+
+    public void setImg(String img) {
+        this.img = img;
     }
 
     public int getId() {

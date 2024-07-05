@@ -1,0 +1,22 @@
+.product-card {
+    margin-bottom: 20px;
+}
+.product-image {
+    width: 100%;
+    height: auto;
+}
+.product-info {
+    text-align: center;
+}
+.product-price {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.galery img{
+    height: 350px;
+    padding: 20px;
+}
+.baner img{
+    width: 100%;
+    border-radius: 15px;
+}
