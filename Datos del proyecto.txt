@@ -1,0 +1,13 @@
+Desarrollado:
+	Sp-Cesar
+Lenguaje, frameworks y utilitarios:
+	Java 22
+	SpringBoot
+	html
+	css
+	Bootstrap
+IDE:
+	Intellij
+DB local:
+	XAMPP
+	SQL
