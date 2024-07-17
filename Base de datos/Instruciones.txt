@@ -1,0 +1,4 @@
+La base de datos está en localhost phpMyAdmin desde el software XAMPP Control Panel
+
+link de descarga del software:
+https://www.apachefriends.org/es/download.html
